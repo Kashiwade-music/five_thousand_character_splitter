@@ -20,3 +20,7 @@ This program splits the text in a given .txt file into 5,000-character chunks an
 
 ## Other
 It will be split every 5000 characters, but at the position of the space and period closest to the 5000th character.
+
+## Example
+`test.txt` is a sample input text file.
+`output_test.txt` is a sample output text file.
